@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">A student from the University of Waterloo</h3>
 
-- 🔭 I’m currently working on **Magnet AUTOMATE at Magnet Forensics**
+- 🔭 I’m currently working at **Magnet Forensics**
 
 - 🌱 I’m currently learning **mobile development**
 
