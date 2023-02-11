@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">A student from the University of Waterloo</h3>
 
-- 🔭 I hav previously worked at **Magnet Forensics** for 2 co-op terms
+- 🔭 I have previously worked at **Magnet Forensics** for 2 co-op terms
 
-- 🌱 I’m currently learning **TypeScript and GoLang**
+- 🌱 I’m currently learning **GoLang, Rust, and compilers**
 
 - 👨‍💻 All of my projects are available on here!
 
