@@ -1,7 +1,7 @@
-# 👋 Hello there! 
+# Hi there! 
 I'm Josh, a Computer Engineering student at the University of Waterloo.
 
-Through my 16 months of work experience and projects, I know Python, Javascript/Typescript, C#, C++, C, and Clojure.
+Through my 16 months of work experience and projects, I know Python, Rust, Javascript/Typescript, C#, C++, C, and Clojure.
 
 I am currently seeking opportunities for internships/co-ops. If you're looking for a dedicated and motivated individual with a strong technical foundation, I'd love to connect and explore how my skills align with your organization's vision!
 
